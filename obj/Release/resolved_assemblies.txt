@@ -1,0 +1,8 @@
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\bin\Release\PrimeNumberTest.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v2.2\Mono.Android.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Security.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Numerics.dll

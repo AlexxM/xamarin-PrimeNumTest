@@ -1,0 +1,2 @@
+PrimeNumberTest.MainActivity;primenumbertest.MainActivity
+PrimeNumberTest.MainActivity.AsyncCompute;primenumbertest.MainActivity_AsyncCompute

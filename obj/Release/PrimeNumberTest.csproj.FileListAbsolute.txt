@@ -1,0 +1,13 @@
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\bin\Release\PrimeNumberTest.dll
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\bin\Release\PrimeNumberTest.pdb
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\bin\Release\PrimeNumberTest.PrimeNumberTest.apk
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\bin\Release\PrimeNumberTest.PrimeNumberTest-Signed.apk
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\PrimeNumberTest.dll
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\PrimeNumberTest.pdb
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\android\bin\PrimeNumberTest.PrimeNumberTest.apk
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\res\layout\main.xml
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\res\drawable\icon.png
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\res\drawable\buttonstyle.xml
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\res\values\strings.xml
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\R.cs.flag
+c:\tempmydoc\visual studio 2010\Projects\PrimeNumberTest\PrimeNumberTest\obj\Release\uploadflags.txt
